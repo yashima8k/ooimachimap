@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ooimachimap/static/css/main.67921584.chunk.css",
+    "main.js": "/ooimachimap/static/js/main.dc3817a3.chunk.js",
+    "main.js.map": "/ooimachimap/static/js/main.dc3817a3.chunk.js.map",
+    "runtime-main.js": "/ooimachimap/static/js/runtime-main.940154fb.js",
+    "runtime-main.js.map": "/ooimachimap/static/js/runtime-main.940154fb.js.map",
+    "static/js/2.3bf20917.chunk.js": "/ooimachimap/static/js/2.3bf20917.chunk.js",
+    "static/js/2.3bf20917.chunk.js.map": "/ooimachimap/static/js/2.3bf20917.chunk.js.map",
+    "index.html": "/ooimachimap/index.html",
+    "service-worker.js": "/ooimachimap/service-worker.js",
+    "service-worker.js.map": "/ooimachimap/service-worker.js.map",
+    "static/css/main.67921584.chunk.css.map": "/ooimachimap/static/css/main.67921584.chunk.css.map",
+    "static/js/2.3bf20917.chunk.js.LICENSE.txt": "/ooimachimap/static/js/2.3bf20917.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.940154fb.js",
+    "static/js/2.3bf20917.chunk.js",
+    "static/css/main.67921584.chunk.css",
+    "static/js/main.dc3817a3.chunk.js"
+  ]
+}
